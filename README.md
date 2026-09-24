@@ -35,9 +35,6 @@ The dashboard focuses on beverage categories, nutritional information, caffeine 
 
 - `Starbucks_Beverage_Analytics_Dashboard.pbix` — Power BI dashboard file
 
-## 🖼️ Dashboard Preview
-
-Dashboard screenshot will be added here.
 
 ## 👩‍💻 Author
 
