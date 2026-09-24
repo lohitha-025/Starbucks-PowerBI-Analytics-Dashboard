@@ -44,3 +44,6 @@ Dashboard screenshot will be added here.
 **Lohitha**
 
 GitHub: [lohitha-025](https://github.com/lohitha-025)
+## 📸 Dashboard Preview
+
+![Starbucks Power BI Dashboard](Starbucks_Dashboard.png.png)
